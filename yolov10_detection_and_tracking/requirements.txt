@@ -1,3 +1,3 @@
-opencv-python
-ultralytics
-deep-sort-realtime
+opencv-python==4.10.0.84
+ultralytics==8.2.103
+deep-sort-realtime==1.3.2
